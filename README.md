@@ -1,5 +1,5 @@
 ---
-maintainer: randomsort
+maintainer: crisGriebler
 ---
 # Git Katas
 
