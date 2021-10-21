@@ -1,5 +1,5 @@
 ---
-maintainer: crisGriebler
+maintainer: crisGriebler is doing a great job!
 ---
 # Git Katas
 
